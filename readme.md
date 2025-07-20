@@ -1,4 +1,4 @@
-# Advanced To-Do List App
+# To-Do List App
 
 A simple and attractive **To-Do List App** built using **HTML, CSS, and JavaScript** with **LocalStorage**.  
 This app allows users to **add, mark complete, delete tasks, and persist tasks even after page reload**.
@@ -24,7 +24,7 @@ This app allows users to **add, mark complete, delete tasks, and persist tasks e
 ---
 
 ## Live Demo
-[Click here to view the live app](https://your-username.github.io/advanced-todo-list/)
+[Click here to view the live app](https://taskora-netlify.netlify.app/)
 
 ---
 
